@@ -52,5 +52,23 @@
         "name": "Ralph",
         "image": "/assets/images/puppy-eye-9.jpeg",
         "clicked": false
+      },
+      {
+        "id": 10,
+        "name": "Ruby",
+        "image": "/assets/images/puppy-eye-10.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 11,
+        "name": "Ginger",
+        "image": "/assets/images/puppy-eye-11.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 12,
+        "name": "Missy",
+        "image": "/assets/images/puppy-eye-12.jpeg",
+        "clicked": false
       }
 ]
