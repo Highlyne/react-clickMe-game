@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Rufus",
-        "image": "/assets/images/puppy-eye-1.jpg",
+        "image": "https://github.com/Highlyne/react-clickMe-game/blob/master/public/assets/images/puppy-eye-1.jpg",
         "clicked": false
       },
       {
