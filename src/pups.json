@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Rufus",
+        "image": "/assets/images/puppy-eye-1.jpg",
+        "clicked": false
+      },
+      {
+        "id": 2,
+        "name": "Spot",
+        "image": "/assets/images/puppy-eye-2.jpg",
+        "clicked": false
+      },
+      {
+        "id": 3,
+        "name": "Bella",
+        "image": "/assets/images/puppy-eye-3.jpg",
+        "clicked": false
+      },
+      {
+        "id": 4,
+        "name": "Tyson",
+        "image": "/assets/images/puppy-eye-4.jpg",
+        "clicked": false
+      },
+      {
+        "id": 5,
+        "name": "Midnight",
+        "image": "/assets/images/puppy-eye-5.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 6,
+        "name": "Scruffy",
+        "image": "/assets/images/puppy-eye-6.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 7,
+        "name": "Scooby",
+        "image": "/assets/images/puppy-eye-7.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "image": "/assets/images/puppy-eye-8.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 9,
+        "name": "Ralph",
+        "image": "/assets/images/puppy-eye-9.jpeg",
+        "clicked": false
+      }
+]
